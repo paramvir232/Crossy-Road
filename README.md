@@ -3,6 +3,7 @@ Welcome to my version of Crossy Road built with Python's Turtle graphics module!
 
 ## Features
 **Random Car Motion:** Cars move randomly across the screen, making each playthrough unique.
+
 **Collision Detection:** The game checks for collisions between the player (turtle) and cars to determine if the player survives or gets hit.
 **Scoreboard Mechanism:** Tracks and displays the number of successful crossings.
 **Game Restart Mechanism:** Allows the player to restart the game after winning or losing.
